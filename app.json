@@ -1,0 +1,7 @@
+{
+  "name": "eateriesLab",
+  "displayName": "eateriesLab",
+  "android": {
+    "package": "com.anonymous.eaterieslab"
+  }
+}
